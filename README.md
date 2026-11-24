@@ -20,6 +20,8 @@ Play these 7-note sequences in **Ocarina Solo** mode to trigger the matching sou
 - **Solo:** `SQUARE` clear staff
 - **Global:** `SELECT` back to menu · `START` exit
 
+<img width="960" height="544" alt="2026-11-24-052810" src="https://github.com/user-attachments/assets/eb15ea04-23f4-4cb3-91d7-1b9f26e555f8" />
+
 ## Installation
 
 ### Method 1: Using the `.vpk` file (Recommended)
